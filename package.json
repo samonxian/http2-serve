@@ -22,8 +22,6 @@
   "dependencies": {
     "commander": "^2.20.0",
     "del": "^4.1.1",
-    "koa": "^2.7.0",
-    "koa-static": "^5.0.0",
     "react-dev-utils": "^9.0.1",
     "semver": "^6.0.0",
     "serve-handler": "^6.0.0",
