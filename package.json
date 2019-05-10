@@ -1,0 +1,33 @@
+{
+  "name": "http2-serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "http2-serve": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianshannan/resource-priority-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xianshannan/resource-priority-demo/issues"
+  },
+  "homepage": "https://github.com/xianshannan/resource-priority-demo#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "del": "^4.1.1",
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0",
+    "react-dev-utils": "^9.0.1",
+    "semver": "^6.0.0",
+    "serve-handler": "^6.0.0",
+    "webpack-dev-server": "^3.3.1",
+    "webpack-launcher-utils": "^0.5.3"
+  }
+}
